@@ -1,0 +1,7 @@
+interface:
+  display_name: "Wiley Advanced Materials Writing"
+  short_description: "Polish materials papers toward AM/AFM style."
+  default_prompt: "Use $wiley-advanced-materials-writing to polish this materials-science manuscript section for an Advanced Materials or Advanced Functional Materials submission."
+
+policy:
+  allow_implicit_invocation: true
